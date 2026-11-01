@@ -21,7 +21,7 @@ jobs:
           TAG: ${{ github.event.release.tag_name }}
         run: |
           VER="${TAG#v}"
-          sed -i -E "s#releases/download/[^/]+/([A-Za-z-]+)_[0-9][0-9A-Za-z.-]*_#releases/download/${TAG}/\1_${VER}_#g" README.md
+          sed -i -E "s#(releases/download/)[^/]+/([A-Za-z-]+[-_])[0-9]+(\.[0-9]+)+([-_.])#\1${TAG}/\2${VER}\4#g" README.md
           git diff --quiet && exit 0
           git config user.name "Amariles"
           git config user.email "alejoama2005@gmail.com"
