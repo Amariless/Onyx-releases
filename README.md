@@ -144,11 +144,11 @@ Onyx wants both. It has the editor, the pages, the databases and the little comf
 
 ## Download
 
-| | File | Notes |
+| System | Download | Notes |
 |---|---|---|
-| **Windows** 10 or 11 | [Installer (.exe)](https://github.com/Amariless/Onyx-releases/releases/download/v0.2.0/Onyx_0.2.0_x64-setup.exe) | If SmartScreen shows up, choose *More info → Run anyway*. The installer isn't signed with a paid certificate. |
-| **Linux** (x86-64) | [AppImage](https://github.com/Amariless/Onyx-releases/releases/download/v0.2.0/Onyx_0.2.0_amd64.AppImage) | Make it executable (`chmod +x`) and open it. |
-| **Android** 8.0 or newer | [APK](https://github.com/Amariless/Onyx-releases/releases/download/v0.2.0/Onyx_0.2.0_android-arm64.apk) | Android will ask you to allow installing apps from this source. |
+| **Windows** | [Installer (.exe)](https://github.com/Amariless/Onyx-releases/releases/download/v0.2.0/Onyx_0.2.0_x64-setup.exe) | Windows 10 or 11. If SmartScreen shows up, choose *More info → Run anyway*. The installer isn't signed with a paid certificate. |
+| **Linux** | [AppImage](https://github.com/Amariless/Onyx-releases/releases/download/v0.2.0/Onyx_0.2.0_amd64.AppImage) | 64-bit PCs. Make it executable (`chmod +x`) and open it. |
+| **Android** | [APK](https://github.com/Amariless/Onyx-releases/releases/download/v0.2.0/Onyx_0.2.0_android-arm64.apk) | Android 8.0 or newer. Android will ask you to allow installing apps from this source. |
 
 There's no macOS version yet. Older versions and release notes are on the [Releases](https://github.com/Amariless/Onyx-releases/releases) page.
 
@@ -159,9 +159,9 @@ On Windows and Linux, Onyx checks for new versions when it opens and updates its
 Found a bug, have an idea or just want to say something? Each button opens a short form.
 
 <p>
-  <a href="https://github.com/Amariless/Onyx-releases/issues/new?template=bug.yml"><img src="https://img.shields.io/badge/Report_a_bug-17161c?style=for-the-badge" alt="Report a bug"></a>
-  <a href="https://github.com/Amariless/Onyx-releases/issues/new?template=idea.yml"><img src="https://img.shields.io/badge/Suggest_an_idea-17161c?style=for-the-badge" alt="Suggest an idea"></a>
-  <a href="https://github.com/Amariless/Onyx-releases/issues/new?template=comment.yml"><img src="https://img.shields.io/badge/Leave_a_comment-17161c?style=for-the-badge" alt="Leave a comment"></a>
+  <a href="https://github.com/Amariless/Onyx-releases/issues/new?template=bug.yml"><img src="https://img.shields.io/badge/Report_a_bug-6d5ce8?style=for-the-badge" alt="Report a bug"></a>
+  <a href="https://github.com/Amariless/Onyx-releases/issues/new?template=idea.yml"><img src="https://img.shields.io/badge/Suggest_an_idea-6d5ce8?style=for-the-badge" alt="Suggest an idea"></a>
+  <a href="https://github.com/Amariless/Onyx-releases/issues/new?template=comment.yml"><img src="https://img.shields.io/badge/Leave_a_comment-6d5ce8?style=for-the-badge" alt="Leave a comment"></a>
 </p>
 
 ---
